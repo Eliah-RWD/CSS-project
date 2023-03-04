@@ -28,7 +28,6 @@ button,
 input,
 textarea {
   font-family: "Poppins", sans-serif;
-  flex-wrap: wrap;
 }
 
 a{
